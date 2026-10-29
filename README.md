@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://assurio.be"><img src="https://img.shields.io/badge/assurio.be-0B0F17?style=flat-square&logo=googlechrome&logoColor=FF2D20" alt="assurio.be"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=flat-square&logo=linkedin&logoColor=FF2D20" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/assuriobv"><img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=flat-square&logo=linkedin&logoColor=FF2D20" alt="LinkedIn"></a>
   <a href="https://www.syntrapxl.be"><img src="https://img.shields.io/badge/Teaching%20at%20SyntraPXL-0B0F17?style=flat-square&logo=googleclassroom&logoColor=FF2D20" alt="SyntraPXL"></a>
 </p>
 
