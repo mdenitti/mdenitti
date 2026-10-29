@@ -1,7 +1,5 @@
-<!-- Only thing left to fill in: replace YOUR-LINKEDIN-HANDLE (2 places) -->
-
 <a href="https://assurio.be">
-  <img src="./assets/header.svg" width="100%" alt="Massimo De Nittis, Laravel developer from Limburg, Belgium">
+  <img src="header.svg" width="100%" alt="Massimo De Nittis, Laravel developer from Limburg, Belgium">
 </a>
 
 <p align="center">
@@ -88,13 +86,6 @@ I start every job with recon: read the code, look at the data, talk to the peopl
   </a>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdenitti/mdenitti/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdenitti/mdenitti/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/mdenitti/mdenitti/output/github-snake-dark.svg" alt="Contribution snake">
-  </picture>
-</p>
 
 ## Get in touch
 
