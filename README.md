@@ -14,7 +14,7 @@ I'm Massimo, and I run **Assurio BV**, a one-man software company in Zonhoven. M
 
 These days a lot of that work involves AI. Not demos, but features inside real workflows where people notice the time they get back. I like sitting close to the client and understanding the problem before the first migration gets written.
 
-I also teach Full Stack Web Development at SyntraPXL in Genk.
+I also teach Full Stack AI Automation engineer at SyntraPXL in Genk.
 
 ## Toolbox
 
