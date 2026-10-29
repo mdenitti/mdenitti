@@ -1,123 +1,101 @@
-<!-- Replace YOUR-GITHUB-USERNAME and YOUR-LINKEDIN-HANDLE below with your own -->
+<!-- Only thing left to fill in: replace YOUR-LINKEDIN-HANDLE (2 places) -->
 
-<h1 align="center">Hi, I'm Maxime De Nittis</h1>
-
-<p align="center">
-  Laravel developer, SaaS builder and teacher from Limburg, Belgium.<br>
-  I build business software that people actually use every day, and lately a lot of it has AI inside.
-</p>
+<a href="https://assurio.be">
+  <img src="./assets/header.svg" width="100%" alt="Massimo De Nittis, Laravel developer from Limburg, Belgium">
+</a>
 
 <p align="center">
-  <a href="https://assurio.be"><img src="https://img.shields.io/badge/Assurio-assurio.be-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Assurio"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Zonhoven%2C%20BE-FFD100?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=FF2D20&label=Profile+views" alt="Profile views">
+  <a href="https://assurio.be"><img src="https://img.shields.io/badge/assurio.be-0B0F17?style=flat-square&logo=googlechrome&logoColor=FF2D20" alt="assurio.be"></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=flat-square&logo=linkedin&logoColor=FF2D20" alt="LinkedIn"></a>
+  <a href="https://www.syntrapxl.be"><img src="https://img.shields.io/badge/Teaching%20at%20SyntraPXL-0B0F17?style=flat-square&logo=googleclassroom&logoColor=FF2D20" alt="SyntraPXL"></a>
 </p>
-
----
 
 ## About me
 
-I run **Assurio BV**, my own one-man software company. Most of my days go to custom Laravel and PHP applications for clients, and to **Assurio**, a multi-tenant SaaS platform for Belgian insurance brokers.
+I'm Massimo, and I run **Assurio BV**, a one-man software company in Zonhoven. Most days I'm building custom Laravel applications for clients or working on **[Assurio](https://assurio.be)**, my multi-tenant SaaS for Belgian insurance brokers.
 
-A growing part of my work is putting AI into production systems. Not demos, but features that sit inside real workflows and save people time. I often work forward-deployed style: close to the client, figuring out the actual problem before writing the first line of code.
+These days a lot of that work involves AI. Not demos, but features inside real workflows where people notice the time they get back. I like sitting close to the client and understanding the problem before the first migration gets written.
 
-In the evenings and on campus you'll find me teaching **Full Stack Web Development at SyntraPXL** in Genk, where I try to get students from "it works on my machine" to "it's tested, deployed and someone is using it".
+I also teach Full Stack Web Development at SyntraPXL in Genk.
 
-- Currently building: new modules for the Assurio platform
-- Currently teaching: Full Stack (Laravel + React), Vibe Coding and Applied LLMs with agents
-- Ask me about: Laravel architecture, multi-tenancy, AI integration, CI/CD with GitHub Actions
-- Fun fact: I'd rather write a lightweight custom WordPress theme than install one more commercial plugin
+## Toolbox
 
----
+<table>
+  <tr>
+    <td width="130"><b>Backend</b></td>
+    <td>
+      <a href="https://laravel.com" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" width="44" alt="Laravel"></a>
+      <a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="44" alt="PHP"></a>
+      <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="44" alt="Node.js"></a>
+      <a href="https://expressjs.com" title="Express"><img src="https://skillicons.dev/icons?i=express" width="44" alt="Express"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" width="44" alt="React"></a>
+      <a href="https://vuejs.org" title="Vue"><img src="https://skillicons.dev/icons?i=vue" width="44" alt="Vue"></a>
+      <a href="https://alpinejs.dev" title="Alpine.js"><img src="https://skillicons.dev/icons?i=alpinejs" width="44" alt="Alpine.js"></a>
+      <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="44" alt="Tailwind CSS"></a>
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="44" alt="JavaScript"></a>
+      <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="44" alt="HTML"></a>
+      <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data and ops</b></td>
+    <td>
+      <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="44" alt="MySQL"></a>
+      <a href="https://supabase.com" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" width="44" alt="Supabase"></a>
+      <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" width="44" alt="GitHub Actions"></a>
+      <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git"></a>
+      <a href="https://www.kernel.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web and tools</b></td>
+    <td>
+      <a href="https://wordpress.org" title="WordPress"><img src="https://skillicons.dev/icons?i=wordpress" width="44" alt="WordPress"></a>
+      <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code"></a>
+      <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Also daily</b></td>
+    <td>
+      <a href="https://filamentphp.com"><img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=black" alt="Filament"></a>
+      <a href="https://livewire.laravel.com"><img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire"></a>
+      <a href="https://inertiajs.com"><img src="https://img.shields.io/badge/Inertia-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia"></a>
+      <a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"></a>
+      <a href="https://cursor.com"><img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"></a>
+    </td>
+  </tr>
+</table>
 
-## Tech stack
+## What I'm up to
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/PHP%208-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black" alt="Filament">
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-</p>
+- Shipping new modules for [Assurio](https://assurio.be), with AI doing the boring parts of a broker's day
+- Teaching a Full Stack traject with Laravel and React, plus evening courses on vibe coding and applied LLM agents
+- Happy to talk about multi-tenancy, Laravel architecture or CI/CD with GitHub Actions
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue">
-  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia">
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" alt="Alpine.js">
-  <img src="https://img.shields.io/badge/Blade-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
+I start every job with recon: read the code, look at the data, talk to the people who use it. Then small steps, staging first, production last.
 
-### Data and infrastructure
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
-### CMS and web
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white" alt="Google Tag Manager">
-</p>
-
-### AI and tooling
-<p>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
-  <img src="https://img.shields.io/badge/LLM_Agents-6E40C9?style=for-the-badge&logo=openai&logoColor=white" alt="LLM agents">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-</p>
-
----
-
-## What I work on
-
-| Area | What that looks like |
-| --- | --- |
-| **SaaS** | Assurio, a multi-tenant platform for Belgian insurance brokers, from data model to go-to-market |
-| **Custom applications** | Laravel apps for businesses, like badge management for a datacenter operator |
-| **AI in production** | LLM features and agents wired into existing business systems and processes |
-| **Web platforms** | Lean WordPress builds with custom themes and the block editor, no plugin bloat |
-| **Teaching** | Full Stack, Vibe Coding and Applied LLM courses at SyntraPXL |
-
----
-
-## How I like to build
-
-I start with recon. Before anything gets changed, I want to understand the existing code, the data and the people using it. Then I work in small phases with clear checkpoints, and nothing goes to production without passing through staging first.
-
-I care about N+1 queries, proper authorization and code that the next developer can read without calling me. Boring, reliable software is a compliment.
-
----
-
-## GitHub stats
+## Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=FF2D20&icon_color=FF2D20" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=FF2D20" alt="Top languages">
+  <a href="https://github.com/mdenitti">
+    <img src="https://streak-stats.demolab.com?user=mdenitti&background=0B0F17&border=232B3B&stroke=232B3B&ring=FF2D20&fire=FF2D20&currStreakNum=F0F3F6&currStreakLabel=FF2D20&sideNums=F0F3F6&sideLabels=9AA4B2&dates=6E7681&border_radius=14" alt="Contribution streak">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&hide_border=true&theme=transparent&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20" alt="GitHub streak">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdenitti/mdenitti/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdenitti/mdenitti/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/mdenitti/mdenitti/output/github-snake-dark.svg" alt="Contribution snake">
+  </picture>
 </p>
-
----
 
 ## Get in touch
 
-Working on a Laravel project, need AI inside an existing application, or looking for a teacher who has actually shipped the stuff he teaches? Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) or [assurio.be](https://assurio.be).
-
-<p align="center"><sub>Built in Zonhoven, usually with too much coffee.</sub></p>
-# mdenitti
+Got a Laravel project, or want AI inside an application you already have? Find me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) or via [assurio.be](https://assurio.be).
