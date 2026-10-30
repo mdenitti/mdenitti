@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="title description">
+  <title id="title">Massimo De Nittis</title>
+  <desc id="description">Laravel developer in Limburg, Belgium. Build useful software, automate the busywork, and teach what's next.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0b0f17"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ff7459"/>
+      <stop offset="1" stop-color="#ff2d20"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#ff4438" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#ff4438" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" opacity=".08"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="380" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="380" fill="url(#background)"/>
+    <rect width="1200" height="380" fill="url(#dots)"/>
+    <circle cx="170" cy="380" r="390" fill="url(#glow)"/>
+    <circle cx="1110" cy="-50" r="250" fill="none" stroke="#ff5c4c" stroke-opacity=".16" stroke-width="48"/>
+    <path d="M-20 356 C260 265 409 423 704 315 S1060 230 1230 278" fill="none" stroke="#ff4438" stroke-opacity=".21" stroke-width="3"/>
+    <path d="M-20 370 C260 279 409 437 704 329 S1060 244 1230 292" fill="none" stroke="#ff8b67" stroke-opacity=".12" stroke-width="2"/>
+    <rect width="1200" height="5" fill="url(#accent)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="379" rx="22" fill="none" stroke="#303b4e"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="70" y="65" fill="#ff8e7c" font-size="16" font-weight="700" letter-spacing="3">HELLO FROM LIMBURG, BELGIUM</text>
+    <text x="66" y="142" fill="#f8fafc" font-size="65" font-weight="800" letter-spacing="-2">Massimo</text>
+    <text x="66" y="211" fill="#f8fafc" font-size="65" font-weight="800" letter-spacing="-2">De Nittis<tspan fill="#ff594b">.</tspan></text>
+    <text x="70" y="257" fill="#d0d8e3" font-size="23">Laravel developer. Founder. Teacher.</text>
+    <rect x="70" y="292" width="306" height="39" rx="19.5" fill="#ff4438" fill-opacity=".12" stroke="#ff6658" stroke-opacity=".55"/>
+    <text x="91" y="318" fill="#ffb5a8" font-size="16" font-weight="700" letter-spacing="1">MAKING THE COMPLEX CLICK</text>
+
+    <g transform="translate(740 54)">
+      <rect width="392" height="272" rx="18" fill="#111a28" stroke="#354052"/>
+      <rect x="1" y="1" width="390" height="51" rx="17" fill="#192435"/>
+      <path d="M1 34 H391 V52 H1 Z" fill="#192435"/>
+      <circle cx="24" cy="26" r="5" fill="#ff6254"/>
+      <circle cx="42" cy="26" r="5" fill="#ffb86b"/>
+      <circle cx="60" cy="26" r="5" fill="#7dd9c0"/>
+      <text x="89" y="32" fill="#a5b3c5" font-size="14" font-weight="700" letter-spacing="1.5">WHAT I'M ABOUT</text>
+
+      <text x="27" y="99" fill="#ff7666" font-size="16" font-weight="700">01</text>
+      <text x="70" y="99" fill="#f8fafc" font-size="22" font-weight="700">Build useful software</text>
+      <path d="M27 117 H365" stroke="#344052"/>
+      <text x="27" y="157" fill="#ffb075" font-size="16" font-weight="700">02</text>
+      <text x="70" y="157" fill="#f8fafc" font-size="22" font-weight="700">Automate the busywork</text>
+      <path d="M27 175 H365" stroke="#344052"/>
+      <text x="27" y="215" fill="#85dfc7" font-size="16" font-weight="700">03</text>
+      <text x="70" y="215" fill="#f8fafc" font-size="22" font-weight="700">Teach what's next</text>
+      <text x="27" y="250" fill="#9baabc" font-size="14">Ideas → code → real-world impact</text>
+    </g>
+  </g>
+</svg>
